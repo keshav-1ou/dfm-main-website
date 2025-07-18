@@ -1,0 +1,77 @@
+[
+  {
+    "documentType": "Budget Develpoment Manual",
+    "tags": "h2",
+    "link": "https://dfm.idaho.gov/budget-development-manual/"
+  },
+  {
+    "documentType": "Budget Reference Library",
+    "tags": "div class =elementor-widget-container",
+    "link": "https://dfm.idaho.gov/publication/fy-2025-executive-budget-publications/"
+  },
+  {
+    "documentType": "Agency Budget Request",
+    "tags": "h2",
+    "link": "https://dfm.idaho.gov/publication/budgetrequests/?fy=2026"
+  },
+  {
+    "documentType": "Budget Activities Summary",
+    "tags": "h2",
+    "link": "https://dfm.idaho.gov/budgetactivities/"
+  },
+  {
+    "documentType": "Trainings Materials",
+    "tags": "h5",
+    "link": "https://dfm.idaho.gov/publication/performance-report-templates/"
+  },
+  {
+    "documentType": "Performance Report Templates",
+    "tags": "h5",
+    "link": "https://dfm.idaho.gov/strategic-plans-and-performance-reports/"
+  },
+  {
+    "documentType": "Performance Report",
+    "tags": "h1",
+    "link": "https://dfm.idaho.gov/publication/?type=budget&level=performance"
+  },
+  {
+    "documentType": "General Fund Revenue Report",
+    "tags": "h3",
+    "link": "https://dfm.idaho.gov/publication/economicpublications/"
+  },
+  {
+    "documentType": "Economic Forecast",
+    "tags": "h3",
+    "link": "https://dfm.idaho.gov/publication/economicpublications/"
+  },
+  {
+    "documentType": "Grand Fund Revenue Book",
+    "tags": "h3",
+    "link": "https://dfm.idaho.gov/publication/economicpublications/"
+  },
+  {
+    "documentType": "Executive Budget Publications",
+    "tags": "h1",
+    "link": "https://dfm.idaho.gov/publication/fy-2025-executive-budget-publications/"
+  },
+  {
+    "documentType": "Executive Budget Details",
+    "tags": "h1",
+    "link": "https://dfm.idaho.gov/publication/?type=budget&level=detail"
+  },
+  {
+    "documentType": "Summary of Fixed Costs Schedule H",
+    "tags": "h3",
+    "link": "https://dfm.idaho.gov/statewide-cost-allocation-program-swcap/"
+  },
+  {
+    "documentType": "Executive Budget Summary",
+    "tags": "h1",
+    "link": "https://dfm.idaho.gov/publication/?type=budget&level=summary"
+  },
+  {
+    "documentType": "Budget Activities Summary",
+    "tags": "h2",
+    "link": "https://dfm.idaho.gov/federal-funds-inventory/"
+  }
+]
